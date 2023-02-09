@@ -1,0 +1,6 @@
+﻿  CopleyUDP.cpp
+  Main.cpp
+C:\Users\esmith\source\repos\CPP_UDP_Example\Main.cpp(151,62): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\esmith\source\repos\CPP_UDP_Example\Main.cpp(158,62): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  CPP_UDP_Example.vcxproj -> C:\Users\esmith\source\repos\CPP_UDP_Example\x64\Debug\CPP_UDP_Example.exe
