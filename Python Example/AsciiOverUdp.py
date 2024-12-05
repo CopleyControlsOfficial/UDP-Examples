@@ -10,7 +10,7 @@ def send_UDP_CMD(message, sock, server_address, server_port):
     decoded_response = data.decode('utf-8')
     return decoded_response
 
-server_address = "192.168.1.1"  # note parameter r0x11F in the drive contains this IP address.
+server_address = "192.168.1.1"  # note parameter 0x11F in the drive contains this IP address.
 server_port = 19658  # port that the drive listens to for ASCII formatted packets according to AN121
 
 # create UDP socket connection
